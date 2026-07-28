@@ -1,7 +1,7 @@
 {
-  "version": "39694e7",
-  "built_at": "2026-07-28T12:10:00Z",
-  "windows_url": "https://github.com/ashpic/retailos-updates/releases/download/39694e7/RetailOS-Windows.exe",
-  "mac_url": "https://github.com/ashpic/retailos-updates/releases/download/39694e7/RetailOS-Mac",
-  "windows_installer_url": "https://github.com/ashpic/retailos-updates/releases/download/39694e7/RetailOSSetup.exe"
+  "version": "fbea8c8",
+  "built_at": "2026-07-28T12:45:00Z",
+  "windows_url": "https://github.com/ashpic/retailos-updates/releases/download/fbea8c8/RetailOS-Windows.exe",
+  "mac_url": "https://github.com/ashpic/retailos-updates/releases/download/fbea8c8/RetailOS-Mac",
+  "windows_installer_url": "https://github.com/ashpic/retailos-updates/releases/download/fbea8c8/RetailOSSetup.exe"
 }
